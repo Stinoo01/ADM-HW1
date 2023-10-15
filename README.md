@@ -1,4 +1,4 @@
-# ADM-HW1
+# ADM-HW1 - Stefano Rinaldi
 
 Here you will be able to find the files for the ADM-HW1. 
 In this repository, you will be able to find the solutions for Problem 1, Problem 2 and Problem 3 with the pdf file with the Hackerrank submissions.
